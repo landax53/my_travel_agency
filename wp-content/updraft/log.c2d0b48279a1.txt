@@ -1,0 +1,281 @@
+0000.001 (0) Opened log file at time: Mon, 07 Mar 2022 14:01:13 +0000 on http://localhost/mytravelagency
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.8 WP: 5.9.1 PHP: 8.0.11 (apache2handler, Windows NT VINCENT-PC 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.4.21-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/8.0.11 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 81M | 18M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 43983.7 MB
+0000.012 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.018 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.024 (0) Semaphore (f, wp_options) being initialised
+0000.033 (0) Requesting semaphore lock (f) (apparently not via scheduler)
+0000.041 (0) Set semaphore last lock (f) time to 2022-03-07 14:01:13
+0000.044 (0) Semaphore lock (f) complete
+0000.052 (0) Backup run: resumption=0, nonce=c2d0b48279a1, file_nonce=c2d0b48279a1 begun at=1646661673 (0s ago), job type=backup
+0000.057 (0) Scheduling a resumption (1) after 300 seconds (1646661973) in case this run gets aborted
+0000.071 (0) Checking if we have a zip executable available
+0000.077 (0) Creation of backups of directories: beginning
+0000.086 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.826 (0) Total entities for the zip file: 1957 directories, 9007 files (0 skipped as non-modified), 202 MB
+0003.833 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3806, C:\xampp\htdocs\mytravelagency\wp-content\plugins\updraftplus\backup.php)
+0003.839 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.989 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 100 files added (on-disk size: 359.6 KB)
+0004.023 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 200 files added (on-disk size: 359.6 KB)
+0004.058 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 300 files added (on-disk size: 359.6 KB)
+0004.091 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 400 files added (on-disk size: 359.6 KB)
+0004.134 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 500 files added (on-disk size: 359.6 KB)
+0004.168 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 600 files added (on-disk size: 359.6 KB)
+0004.202 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 700 files added (on-disk size: 359.6 KB)
+0004.237 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 800 files added (on-disk size: 359.6 KB)
+0004.273 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 900 files added (on-disk size: 359.6 KB)
+0004.315 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1000 files added (on-disk size: 359.6 KB)
+0004.319 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.2 MB, 9007 files batched, 1001 (1002) added so far); re-opening (prior size: 359.6 KB)
+0004.926 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1100 files added (on-disk size: 2429.1 KB)
+0004.961 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1200 files added (on-disk size: 2429.1 KB)
+0004.995 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1300 files added (on-disk size: 2429.1 KB)
+0005.029 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1400 files added (on-disk size: 2429.1 KB)
+0005.074 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1500 files added (on-disk size: 2429.1 KB)
+0005.117 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1600 files added (on-disk size: 2429.1 KB)
+0005.165 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1700 files added (on-disk size: 2429.1 KB)
+0005.204 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1800 files added (on-disk size: 2429.1 KB)
+0005.248 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 1900 files added (on-disk size: 2429.1 KB)
+0005.294 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2000 files added (on-disk size: 2429.1 KB)
+0005.300 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.9 MB, 9007 files batched, 1001 (2003) added so far); re-opening (prior size: 2429.1 KB)
+0006.864 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2100 files added (on-disk size: 7551.7 KB)
+0006.903 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2200 files added (on-disk size: 7551.7 KB)
+0006.939 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2300 files added (on-disk size: 7551.7 KB)
+0006.973 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2400 files added (on-disk size: 7551.7 KB)
+0007.010 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2500 files added (on-disk size: 7551.7 KB)
+0007.051 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2600 files added (on-disk size: 7551.7 KB)
+0007.085 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2700 files added (on-disk size: 7551.7 KB)
+0007.128 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2800 files added (on-disk size: 7551.7 KB)
+0007.165 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 2900 files added (on-disk size: 7551.7 KB)
+0007.198 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3000 files added (on-disk size: 7551.7 KB)
+0007.203 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.8 MB, 9007 files batched, 1001 (3004) added so far); re-opening (prior size: 7551.7 KB)
+0008.668 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3100 files added (on-disk size: 15046 KB)
+0008.712 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3200 files added (on-disk size: 15046 KB)
+0008.756 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3300 files added (on-disk size: 15046 KB)
+0008.792 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3400 files added (on-disk size: 15046 KB)
+0008.827 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3500 files added (on-disk size: 15046 KB)
+0008.867 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3600 files added (on-disk size: 15046 KB)
+0008.879 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 9007 files batched, 622 (3626) added so far); re-opening (prior size: 15046 KB)
+0010.508 (0) A useful amount of data was added after this amount of zip processing: 1.9 s (normalised: 1.9 s, rate: 13241.7 KB/s)
+0010.512 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.9340970516205, normalised_time=1.9332881715902, max_time=10.509166955948, data points known=1, old_max_bytes=26214400, new_max_bytes=85499361)
+0010.594 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3700 files added (on-disk size: 23372.1 KB)
+0010.638 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3800 files added (on-disk size: 23372.1 KB)
+0010.680 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 3900 files added (on-disk size: 23372.1 KB)
+0010.716 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4000 files added (on-disk size: 23372.1 KB)
+0010.763 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4100 files added (on-disk size: 23372.1 KB)
+0010.888 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4200 files added (on-disk size: 23372.1 KB)
+0010.937 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4300 files added (on-disk size: 23372.1 KB)
+0010.983 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4400 files added (on-disk size: 23372.1 KB)
+0011.032 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4500 files added (on-disk size: 23372.1 KB)
+0011.076 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4600 files added (on-disk size: 23372.1 KB)
+0011.087 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (75.1 MB, 9007 files batched, 1001 (4627) added so far); re-opening (prior size: 23372.1 KB)
+0014.275 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4700 files added (on-disk size: 92629.1 KB)
+0014.353 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4800 files added (on-disk size: 92629.1 KB)
+0014.431 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 4900 files added (on-disk size: 92629.1 KB)
+0014.500 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5000 files added (on-disk size: 92629.1 KB)
+0014.571 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5100 files added (on-disk size: 92629.1 KB)
+0014.619 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5200 files added (on-disk size: 92629.1 KB)
+0014.677 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5300 files added (on-disk size: 92629.1 KB)
+0014.729 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5400 files added (on-disk size: 92629.1 KB)
+0014.783 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5500 files added (on-disk size: 92629.1 KB)
+0014.842 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5600 files added (on-disk size: 92629.1 KB)
+0014.860 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.1 MB, 9007 files batched, 1001 (5628) added so far); re-opening (prior size: 92629.1 KB)
+0017.052 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5700 files added (on-disk size: 98948.2 KB)
+0017.096 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5800 files added (on-disk size: 98948.2 KB)
+0017.136 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 5900 files added (on-disk size: 98948.2 KB)
+0017.176 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6000 files added (on-disk size: 98948.2 KB)
+0017.211 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6100 files added (on-disk size: 98948.2 KB)
+0017.250 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6200 files added (on-disk size: 98948.2 KB)
+0017.292 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6300 files added (on-disk size: 98948.2 KB)
+0017.334 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6400 files added (on-disk size: 98948.2 KB)
+0017.374 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6500 files added (on-disk size: 98948.2 KB)
+0017.413 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6600 files added (on-disk size: 98948.2 KB)
+0017.430 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.5 MB, 9007 files batched, 1001 (6629) added so far); re-opening (prior size: 98948.2 KB)
+0020.727 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6700 files added (on-disk size: 101570.6 KB)
+0020.833 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6800 files added (on-disk size: 101570.6 KB)
+0021.876 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 6900 files added (on-disk size: 101570.6 KB)
+0022.144 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7000 files added (on-disk size: 101570.6 KB)
+0022.239 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7100 files added (on-disk size: 101570.6 KB)
+0023.473 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7200 files added (on-disk size: 101570.6 KB)
+0023.520 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7300 files added (on-disk size: 101570.6 KB)
+0023.566 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7400 files added (on-disk size: 101570.6 KB)
+0023.574 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8 MB, 775 (7404) files added so far); re-opening (prior size: 101570.6 KB)
+0025.981 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7500 files added (on-disk size: 104045.8 KB)
+0026.030 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7600 files added (on-disk size: 104045.8 KB)
+0026.080 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7700 files added (on-disk size: 104045.8 KB)
+0026.138 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7800 files added (on-disk size: 104045.8 KB)
+0026.186 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 7900 files added (on-disk size: 104045.8 KB)
+0026.240 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8000 files added (on-disk size: 104045.8 KB)
+0026.289 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8100 files added (on-disk size: 104045.8 KB)
+0026.342 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8200 files added (on-disk size: 104045.8 KB)
+0026.442 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8300 files added (on-disk size: 104045.8 KB)
+0026.552 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8400 files added (on-disk size: 104045.8 KB)
+0026.563 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12 MB, 9007 files batched, 1001 (8405) added so far); re-opening (prior size: 104045.8 KB)
+0028.315 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8500 files added (on-disk size: 109789.7 KB)
+0028.449 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8600 files added (on-disk size: 109789.7 KB)
+0028.552 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8700 files added (on-disk size: 109789.7 KB)
+0028.681 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8800 files added (on-disk size: 109789.7 KB)
+0028.811 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 8900 files added (on-disk size: 109789.7 KB)
+0028.979 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.tmp: 9000 files added (on-disk size: 109789.7 KB)
+0031.201 (0) Creating zip file manifest (C:\xampp\htdocs\mytravelagency/wp-content/updraft/backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.list-temp.tmp)
+0031.265 (0) Successfully created zip file manifest (size: 754423)
+0032.658 (0) Created plugins zip (0) - 111319.6 KB in 32.6 s (3418.3 KB/s) (sha1: a38d02ac6ca3dd0e2d9086f6751873e177b4caf2, sha256: cb71cda96a40164939b4e47a6cbf3746f74087756949b4d95c84438a74e1691d)
+0032.664 (0) Beginning creation of dump of themes (split every: 400 MB)
+0032.913 (0) Total entities for the zip file: 155 directories, 696 files (0 skipped as non-modified), 14.2 MB
+0032.916 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3806, C:\xampp\htdocs\mytravelagency\wp-content\plugins\updraftplus\backup.php)
+0032.941 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0032.968 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0032.995 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0033.022 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0033.050 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0033.077 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0033.842 (0) Creating zip file manifest (C:\xampp\htdocs\mytravelagency/wp-content/updraft/backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.list-temp.tmp)
+0033.849 (0) Successfully created zip file manifest (size: 47720)
+0033.898 (0) Created themes zip (0) - 4249.6 KB in 1.2 s (3457.5 KB/s) (sha1: 72f0993b95a8386ea23036d27f6bec0968bfc534, sha256: 8265f85707b3325ae9310cc2facbf4ecd7aeccf70bc726cd2168e402139c4957)
+0033.905 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0033.908 (0) Looking for candidates to backup in: C:\xampp\htdocs\mytravelagency/wp-content/uploads
+0033.910 (0) finding files: 2020: adding to list (1)
+0033.912 (0) finding files: 2021: adding to list (2)
+0033.914 (0) finding files: 2022: adding to list (3)
+0033.916 (0) finding files: elementor: adding to list (4)
+0033.918 (0) finding files: ithemes-security: adding to list (5)
+0033.920 (0) finding files: kadence_starter_templates: adding to list (6)
+0033.922 (0) finding files: rara-demo-pack: adding to list (7)
+0033.923 (0) finding files: ultimatemember: adding to list (8)
+0033.925 (0) finding files: wc-logs: adding to list (9)
+0033.927 (0) finding files: woocommerce-placeholder.png: adding to list (10)
+0033.929 (0) finding files: woocommerce_uploads: adding to list (11)
+0033.931 (0) finding files: wp2static-crawled-site: adding to list (12)
+0033.933 (0) finding files: wpcf7_uploads: adding to list (13)
+0033.936 (0) finding files: wpforms: adding to list (14)
+0033.938 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0033.987 (0) Total entities for the zip file: 36 directories, 123 files (0 skipped as non-modified), 39.9 MB
+0033.990 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3806, C:\xampp\htdocs\mytravelagency\wp-content\plugins\updraftplus\backup.php)
+0034.016 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.209 (0) Creating zip file manifest (C:\xampp\htdocs\mytravelagency/wp-content/updraft/backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip.list-temp.tmp)
+0034.214 (0) Successfully created zip file manifest (size: 6811)
+0034.556 (0) Created uploads zip (0) - 38983.4 KB in 0.6 s (63654.2 KB/s) (sha1: d9c814cec7d2b486a02726520f5b1230cd9bdcef, sha256: 722b5415d6b86e1a85fa87136ee55ba282b2881cf882f5b3b101194c0e895279)
+0034.563 (0) Beginning backup of other directories found in the content directory (index: 0)
+0034.565 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0034.568 (0) Looking for candidates to backup in: C:\xampp\htdocs\mytravelagency/wp-content
+0034.572 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0034.575 (0) finding files: index.php: adding to list (1)
+0034.577 (0) finding files: languages: adding to list (2)
+0034.581 (0) finding files: plugins: skipping: this is the plugins directory
+0034.583 (0) finding files: themes: skipping: this is the themes directory
+0034.586 (0) finding files: updraft: skipping: this is the updraft directory
+0034.589 (0) finding files: upgrade: skipping: excluded by options
+0034.592 (0) finding files: uploads: skipping: this is the uploads directory
+0034.660 (0) Total entities for the zip file: 3 directories, 239 files (0 skipped as non-modified), 6.1 MB
+0034.666 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3806, C:\xampp\htdocs\mytravelagency\wp-content\plugins\updraftplus\backup.php)
+0034.694 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.723 (0) Zip: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0035.249 (0) Creating zip file manifest (C:\xampp\htdocs\mytravelagency/wp-content/updraft/backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip.list-temp.tmp)
+0035.255 (0) Successfully created zip file manifest (size: 18601)
+0035.283 (0) Created others zip (0) - 1784.5 KB in 0.7 s (2595.4 KB/s) (sha1: d1b8c655dff727b3a167641fb7b5a5be48478e7a, sha256: feb36d8356c95c3190700076839cb4e44d82f5dd3e0015e5b4f6d48c89e596fb)
+0035.293 (0) Saving backup status to database (elements: 8)
+0035.299 (0) No database backup (wp) - not part of this run
+0035.304 (0) backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0035.306 (0) backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0035.307 (0) backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0035.309 (0) backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0035.312 (0) Saving backup history. Total backup size: 152.7 MB
+0035.316 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0035.324 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0035.326 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-95c22dd8a5d0e187f19aca0ace61ee8f)
+0035.328 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0036.084 (0) Successfully updated and refreshed the access token
+0036.087 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0036.943 (0) Dropbox: quota usage: used=97.8 MB, total=2048 MB, available=1950.2 MB
+0036.950 (0) Dropbox: Attempt to upload: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip to: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip
+0040.174 (0) Dropbox chunked upload: 0.9 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 1048576, 2560 KB)
+0046.193 (0) Dropbox chunked upload: 3.2 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 3670016, 3584 KB)
+0053.398 (0) Dropbox chunked upload: 6.4 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 7340032, 4096 KB)
+0062.085 (0) Dropbox chunked upload: 10.1 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 11534336, 4096 KB)
+0070.309 (0) Dropbox chunked upload: 13.8 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 15728640, 4096 KB)
+0078.532 (0) Dropbox chunked upload: 17.5 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 19922944, 4096 KB)
+0085.155 (0) Dropbox chunked upload: 21.2 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 24117248, 5120 KB)
+0095.371 (0) Dropbox chunked upload: 25.8 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 29360128, 5120 KB)
+0102.435 (0) Dropbox chunked upload: 30.4 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 34603008, 6144 KB)
+0111.747 (0) Dropbox chunked upload: 35.9 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 40894464, 5632 KB)
+0120.161 (0) Dropbox chunked upload: 40.9 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 46661632, 5632 KB)
+0129.257 (0) Dropbox chunked upload: 46 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 52428800, 5120 KB)
+0140.796 (0) Dropbox chunked upload: 50.6 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 57671680, 5120 KB)
+0152.407 (0) Dropbox chunked upload: 55.2 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 62914560, 5120 KB)
+0163.209 (0) Dropbox chunked upload: 59.8 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 68157440, 5120 KB)
+0173.915 (0) Dropbox chunked upload: 64.4 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 73400320, 5120 KB)
+0183.142 (0) Dropbox chunked upload: 69 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 78643200, 4608 KB)
+0192.646 (0) Dropbox chunked upload: 73.1 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 83361792, 4096 KB)
+0199.547 (0) Dropbox chunked upload: 76.8 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 87556096, 5120 KB)
+0209.709 (0) Dropbox chunked upload: 81.4 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 92798976, 5120 KB)
+0219.867 (0) Dropbox chunked upload: 86 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 98041856, 5120 KB)
+0228.843 (0) Dropbox chunked upload: 90.6 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 103284736, 5120 KB)
+0239.204 (0) Dropbox chunked upload: 95.2 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 108527616, 5120 KB)
+0249.563 (0) Dropbox chunked upload: 99.8 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 113770496, 5120 KB)
+0251.517 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEpjfnMwd06IxNhVBv7UgItQlqWi6zPURU5F3SlrUNJMnh, 113991310, 5120 KB)
+0253.577 (0) Recording as successfully uploaded: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip
+0253.596 (0) Deleting local file: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip: OK
+0253.599 (0) Deleting zip manifest (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip.list.tmp)
+0253.602 (0) Dropbox: File upload success (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-plugins.zip): 111319 KB in 216s (513 KB/s)
+0254.259 (0) Dropbox: quota usage: used=111.2 MB, total=2048 MB, available=1936.8 MB
+0254.266 (0) Dropbox: Attempt to upload: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip to: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip
+0263.116 (0) The scheduled resumption is within 45 seconds - will reschedule
+0263.122 (0) Rescheduling resumption 1: moving to 345 seconds from now (1646662281)
+0263.132 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0263.134 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEpsgpT6lnJq5Gi7jKAMyuBU-rDBeuRpLc0hHN9sJfAvLZ, 4351550, 5120 KB)
+0265.135 (0) Recording as successfully uploaded: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip
+0265.146 (0) Deleting local file: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip: OK
+0265.149 (0) Deleting zip manifest (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip.list.tmp)
+0265.152 (0) Dropbox: File upload success (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-themes.zip): 4249 KB in 10s (390 KB/s)
+0265.708 (0) Dropbox: quota usage: used=115.4 MB, total=2048 MB, available=1932.6 MB
+0265.715 (0) Dropbox: Attempt to upload: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip to: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip
+0275.218 (0) Dropbox chunked upload: 13.1 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 5242880, 4608 KB)
+0285.095 (0) Dropbox chunked upload: 25 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 9961472, 4096 KB)
+0292.669 (0) Dropbox chunked upload: 35.5 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 14155776, 4608 KB)
+0301.225 (0) Dropbox chunked upload: 47.3 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 18874368, 4608 KB)
+0309.333 (0) Dropbox chunked upload: 59.1 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 23592960, 4608 KB)
+0318.774 (0) The time we have been running (318.8) is approaching the resumption interval (345) - increasing resumption interval to 349
+0318.789 (0) Dropbox chunked upload: 70.9 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 28311552, 4096 KB)
+0326.001 (0) The time we have been running (326) is approaching the resumption interval (349) - increasing resumption interval to 356
+0326.007 (0) Dropbox chunked upload: 81.4 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 32505856, 4608 KB)
+0334.303 (0) The time we have been running (334.3) is approaching the resumption interval (356) - increasing resumption interval to 365
+0334.309 (0) Dropbox chunked upload: 93.2 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 37224448, 4608 KB)
+0340.607 (0) The time we have been running (340.6) is approaching the resumption interval (365) - increasing resumption interval to 371
+0340.614 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEpiS4BpW6yk6uQritgkHPIBEfLfNoSrP8auehuS_v-RFX, 39919007, 4608 KB)
+0342.895 (0) Recording as successfully uploaded: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip
+0342.908 (0) Deleting local file: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip: OK
+0342.912 (0) Deleting zip manifest (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip.list.tmp)
+0342.915 (0) Dropbox: File upload success (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-uploads.zip): 38983 KB in 77s (504 KB/s)
+0343.599 (0) Dropbox: quota usage: used=153.4 MB, total=2048 MB, available=1894.6 MB
+0343.607 (0) Dropbox: Attempt to upload: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip to: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip
+0347.853 (0) The time we have been running (347.8) is approaching the resumption interval (371) - increasing resumption interval to 378
+0347.858 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEpo55WGIpVHm0zvU2Yo9V3hApeHaYqCwjOFx8xe0AMD-Z, 1827317, 4608 KB)
+0349.826 (0) Recording as successfully uploaded: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip
+0349.837 (0) Deleting local file: backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip: OK
+0349.840 (0) Deleting zip manifest (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip.list.tmp)
+0349.844 (0) Dropbox: File upload success (backup_2022-03-07-1501_My_Travel_Agency_c2d0b48279a1-others.zip): 1784 KB in 6s (286 KB/s)
+0349.859 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=7
+0349.862 (0) Number of backup sets in history: 3; groups (db): 1
+0349.864 (0) Examining (for databases) backup set with group_id=0, nonce=028b5c8164a7, datestamp=1646661728 (Mar 07 2022 14:02:08)
+0349.866 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0349.868 (0) Examining (for databases) backup set with group_id=0, nonce=c2d0b48279a1, datestamp=1646661673 (Mar 07 2022 14:01:13)
+0349.868 (0) Examining (for databases) backup set with group_id=0, nonce=b9d7dd0d472b, datestamp=1646582484 (Mar 06 2022 16:01:24)
+0349.868 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0349.868 (0) Number of backup sets in history: 3; groups (files): 1
+0349.870 (0) Examining (for files) backup set with nonce=028b5c8164a7, datestamp=1646661728 (Mar 07 2022 14:02:08)
+0349.870 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0349.872 (0) Examining (for files) backup set with nonce=c2d0b48279a1, datestamp=1646661673 (Mar 07 2022 14:01:13)
+0349.872 (0) This backup set is the backup set just made, so will not be deleted.
+0349.875 (0) This backup set is the backup set just made, so will not be deleted.
+0349.875 (0) This backup set is the backup set just made, so will not be deleted.
+0349.875 (0) This backup set is the backup set just made, so will not be deleted.
+0349.875 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0349.877 (0) Examining (for files) backup set with nonce=b9d7dd0d472b, datestamp=1646582484 (Mar 06 2022 16:01:24)
+0349.877 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0349.879 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0349.884 (0) Resume backup (c2d0b48279a1, 0): finish run
+0349.890 (0) Decremented the semaphore (f) by 1
+0349.894 (0) Semaphore (f) unlocked
+0349.896 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0349.907 (0) The backup apparently succeeded and is now complete
+0349.910 (0) No email will/can be sent - the user has not configured an email address.
+0349.912 (0) La sauvegarde a apparemment réussi et est maintenant terminée
